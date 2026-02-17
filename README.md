@@ -1,7 +1,6 @@
 # 📊 Feature Contribution & Recourse Analysis  
-## California Housing Dataset – Explainable AI Project
 
-This project performs **feature contribution analysis** and **counterfactual recourse analysis** using the California Housing dataset from `sklearn`.  
+Performs **feature contribution analysis** and **counterfactual recourse analysis** using the California Housing dataset from `sklearn`.  
 The objective is to understand how different features influence house price predictions and generate actionable explanations using modern XAI techniques.
 
 ---
@@ -118,5 +117,4 @@ The model heavily depends on geographic features (Latitude & Longitude), suggest
 - NumPy
 
 ---
-
 
